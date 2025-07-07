@@ -1,7 +1,7 @@
 ### Mindhive AI Chatbot Engineer Assessment Submission
 This repository contains my submission for the Mindhive AI Chatbot Engineer technical assessment. The project is a multi-tool agent capable of holding conversations, performing calculations, and querying custom APIs for information about ZUS Coffee products and outlets.
 
-Hosted Demo URL: https://mindhive-chatbot.vercel.app
+Hosted Demo URL: https://mindhive-chatbot-p79g.vercel.app
 
 ### Architecture Overview
 This project is built using a Python-based, code-first approach.
